@@ -1,0 +1,7 @@
+cloud:
+  aws:
+    credentials:
+      profile-name: enablers
+    region:
+      static: eu-west-1
+      auto: false
